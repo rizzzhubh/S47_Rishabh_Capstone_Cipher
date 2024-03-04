@@ -46,6 +46,7 @@ mongoose.connect("mongodb+srv://Rishabh:Cipher@cluster0.rjxz1yt.mongodb.net/?ret
     
   })
 
+  
 app.listen(3000, () => {
   console.log('Server is running on port 3000');
 });
